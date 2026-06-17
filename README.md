@@ -1,6 +1,6 @@
 # **👋 Hi, I'm Nikhil Mali**
 
-AI Developer | Machine Learning | Full Stack Dev | 🏆 Hackathon Winner
+**AI Developer | Machine Learning | Full Stack Dev | 🏆 Hackathon Winner**
 
 ---
 
@@ -45,7 +45,7 @@ My GitHub showcases **end-to-end AI projects**, **machine learning work**, and *
 
 # **📂 Featured Projects**
 
-🔸 **SnapClass - AI Powered Attendance System** (🥈 Hackathon Winner)
+## 🔸 **SnapClass - AI Powered Attendance System** (🥈 Hackathon Winner)
 * Face Recognition for instant attendance marking
 * Voice Biometrics for verification
 * Teacher & Student portals with real-time tracking
@@ -68,4 +68,5 @@ My GitHub showcases **end-to-end AI projects**, **machine learning work**, and *
 * 🔗 LinkedIn:[ https://linkedin.com/in/nikhil-mali](https://www.linkedin.com/in/nikhil-mali-55197a32a/)
 * 🔗 GitHub: https://github.com/Nikhil3235
 
-⭐ This GitHub profile reflects my learning journey in AI/ML and full-stack development.
+---
+**⭐ This GitHub profile reflects my learning journey in AI/ML and full-stack development.**
