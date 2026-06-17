@@ -65,7 +65,7 @@ My GitHub showcases **end-to-end AI projects**, **machine learning work**, and *
 **📫 Contact**
 
 * 📧 Email: nikhilshivajimali3235@gmail.com
-* 🔗 LinkedIn: https://linkedin.com/in/nikhil-mali
+* 🔗 LinkedIn:[ https://linkedin.com/in/nikhil-mali](https://www.linkedin.com/in/nikhil-mali-55197a32a/)
 * 🔗 GitHub: https://github.com/Nikhil3235
 
 ⭐ This GitHub profile reflects my learning journey in AI/ML and full-stack development.
