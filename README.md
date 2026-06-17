@@ -1,16 +1,71 @@
-## Hi there 👋
+👋 Hi, I'm Nikhil Mali
 
-<!--
-**Nikhil3235/Nikhil3235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Developer | Machine Learning | Full Stack Dev | 🏆 Hackathon Winner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+I am a Computer Science Engineering student with hands-on experience in **AI/ML**, **full-stack development**, and **cloud technologies**.
+
+I enjoy building **AI-powered solutions**, working with **real-world datasets**, and exploring **machine learning** applications.
+
+My GitHub showcases **end-to-end AI projects**, **machine learning work**, and **innovative solutions** reflecting my continuous learning journey.
+
+---
+
+🧠 Key Skill Areas
+
+🔹 **AI & Machine Learning**
+* Face Recognition & Computer Vision
+* Machine Learning Models
+* Deep Learning Applications
+* Generative AI & Prompt Engineering
+
+🔹 **Full-Stack Development**
+* Python, Streamlit, React
+* MongoDB, SQL, Cloud Databases
+* API Development & Deployment
+* Real-time Applications
+
+🔹 **Data Science & Analytics**
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Google Cloud Platform (BigQuery)
+* Business Intelligence
+
+🔹 **Tools & Platforms**
+* Python, Streamlit
+* MongoDB, SQL
+* Google Cloud
+* Git & GitHub
+* Jupyter Notebook
+
+---
+
+📂 Featured Projects
+
+🔸 **SnapClass - AI Powered Attendance System** (🥈 Hackathon Winner)
+* Face Recognition for instant attendance marking
+* Voice Biometrics for verification
+* Teacher & Student portals with real-time tracking
+* MongoDB + Streamlit deployment
+
+---
+
+🎯 Currently Learning
+
+* Advanced Machine Learning
+* Cloud Architecture
+* System Design
+* GenAI Applications
+
+---
+
+📫 Contact
+
+* 📧 Email: nikhil.mali@example.com
+* 🔗 LinkedIn: https://linkedin.com/in/nikhil-mali
+* 🔗 GitHub: https://github.com/Nikhil3235
+
+⭐ This GitHub profile reflects my learning journey in AI/ML and full-stack development.
