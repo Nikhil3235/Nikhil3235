@@ -45,11 +45,22 @@ My GitHub showcases **end-to-end AI projects**, **machine learning work**, and *
 
 # **📂 Featured Projects**
 
-## 🔸 **SnapClass - AI Powered Attendance System** (🥈 Hackathon Winner)
+##   **1)🔸 SnapClass - AI Powered Attendance System** (🥈 Hackathon Winner)
 * Face Recognition for instant attendance marking
 * Voice Biometrics for verification
 * Teacher & Student portals with real-time tracking
 * MongoDB + Streamlit deployment
+* 🌐 Live Demo:https://snap-class-landing-page-ruby.vercel.app/
+* 💻 GitHub:[https://github.com/Nikhil3235/ai-nst-project](https://github.com/Nikhil3235/snap_class-landing-page)
+
+##  **2)🔸AI Neural Style Transfer - Deep Learning Web App**
+
+* AdaIN algorithm for real-time artistic style transfer
+* VGG19 Encoder + Custom Decoder Neural Network
+* Flask web app with Docker deployment
+* Live on Hugging Face Spaces
+* 🌐 Live Demo: https://nikhil3235-ai-nst-project.hf.space
+* 💻 GitHub:https://github.com/Nikhil3235/ai-nst-project
 
 ---
 
