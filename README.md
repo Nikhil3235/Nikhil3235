@@ -64,17 +64,17 @@ My GitHub showcases **end-to-end AI projects**, **machine learning work**, and *
 
 ##  **3)🔸 AI Real-Time Gym Coach - Computer Vision Web App**
 
-*Real-time pose estimation tracking 33 skeletal joint angles via Google MediaPipe
+* Real-time pose estimation tracking 33 skeletal joint angles via Google MediaPipe
 
-*Proactive AI voice feedback (English/Hindi/Marathi) using LLaMA-3 (Groq AI)
+* Proactive AI voice feedback (English/Hindi/Marathi) using LLaMA-3 (Groq AI)
 
-*Auto-counts repetitions, calculates form accuracy, and saves history in SQLite3
+* Auto-counts repetitions, calculates form accuracy, and saves history in SQLite3
 
-*Startup-style Landing Page with 3D card tilt & particle canvas animations
+* Startup-style Landing Page with 3D card tilt & particle canvas animations
 
-*🌐 **Live Demo:**  https://nikhil3235.github.io/ai-gym-coach/
+* 🌐 **Live Demo:**  https://nikhil3235.github.io/ai-gym-coach/
 
-*💻 **GitHub:**  https://github.com/Nikhil3235/ai-gym-coach
+* 💻 **GitHub:**  https://github.com/Nikhil3235/ai-gym-coach
 
 ---
 
