@@ -50,8 +50,8 @@ My GitHub showcases **end-to-end AI projects**, **machine learning work**, and *
 * Voice Biometrics for verification
 * Teacher & Student portals with real-time tracking
 * MongoDB + Streamlit deployment
-* 🌐 Live Demo:https://snap-class-landing-page-ruby.vercel.app/
-* 💻 GitHub:[https://github.com/Nikhil3235/ai-nst-project](https://github.com/Nikhil3235/snap_class-landing-page)
+* 🌐 **Live Demo:** https://snap-class-landing-page-ruby.vercel.app/
+* 💻 **GitHub:** [https://github.com/Nikhil3235/ai-nst-project](https://github.com/Nikhil3235/snap_class-landing-page)
 
 ##  **2)🔸AI Neural Style Transfer - Deep Learning Web App**
 
@@ -59,8 +59,16 @@ My GitHub showcases **end-to-end AI projects**, **machine learning work**, and *
 * VGG19 Encoder + Custom Decoder Neural Network
 * Flask web app with Docker deployment
 * Live on Hugging Face Spaces
-* 🌐 Live Demo: https://nikhil3235-ai-nst-project.hf.space
-* 💻 GitHub:https://github.com/Nikhil3235/ai-nst-project
+* 🌐 **Live Demo:**  https://nikhil3235-ai-nst-project.hf.space
+* 💻 **GitHub:https:** //github.com/Nikhil3235/ai-nst-project
+
+##  **3)🔸 AI Real-Time Gym Coach - Computer Vision Web App**
+*Real-time pose estimation tracking 33 skeletal joint angles via Google MediaPipe
+*Proactive AI voice feedback (English/Hindi/Marathi) using LLaMA-3 (Groq AI)
+*Auto-counts repetitions, calculates form accuracy, and saves history in SQLite3
+*Startup-style Landing Page with 3D card tilt & particle canvas animations
+*🌐 **Live Demo:**  https://nikhil3235.github.io/ai-gym-coach/
+*💻 **GitHub:**  https://github.com/Nikhil3235/ai-gym-coach
 
 ---
 
