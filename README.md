@@ -1,6 +1,6 @@
 # **👋 Hi, I'm Nikhil Mali**
 
-**AI Developer | Machine Learning | Full Stack Dev | 🏆 Hackathon Winner**
+**AI Developer | Machine Learning | Full Stack Dev | 🏆 ArcArena Hackathon Winner 🥈**
 
 ---
 
