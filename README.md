@@ -6,11 +6,11 @@
 
 ## **🚀 About Me**
 
-### I am a Computer Science Engineering student with hands-on experience in **AI/ML**, **full-stack development**, and **cloud technologies**.
+#### I am a Computer Science Engineering student with hands-on experience in **AI/ML**, **full-stack development**, and **cloud technologies**.
 
-### I enjoy building **AI-powered solutions**, working with **real-world datasets**, and exploring **machine learning** applications.
+#### I enjoy building **AI-powered solutions**, working with **real-world datasets**, and exploring **machine learning** applications.
 
-### My GitHub showcases **end-to-end AI projects**, **machine learning work**, and **innovative solutions** reflecting my continuous learning journey.
+#### My GitHub showcases **end-to-end AI projects**, **machine learning work**, and **innovative solutions** reflecting my continuous learning journey.
 
 ---
 
