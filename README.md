@@ -75,6 +75,15 @@
 * 🌐 **Live Demo:**  https://nikhil3235.github.io/ai-gym-coach/
 
 * 💻 **GitHub:**  https://github.com/Nikhil3235/ai-gym-coach
+  
+
+##  **4)🔸 FireVision AI — Intelligent Fire & Smoke Detection System**
+* Real-time fire and smoke hazard detection powered by a custom-trained **YOLOv8m** deep learning model.
+* Spatio-Temporal coordinate variance tracking to suppress static photo frames from being counted as living people.
+* Geometrical Intersection-over-Area (IoA) filters to eliminate false positive detections on warm skin tones (faces), orange clothing, and mobile screens.
+* Production-grade deployment in a Docker container with real-time audio sirens, Twilio SMS alerts, and dynamic PDF safety reports.
+* 🌐 **Live Demo:** https://nikhil3235-fire-smoke-detection.hf.space/live
+* 💻 **GitHub:** https://github.com/Nikhil3235/fire-smoke-detection-
 
 ---
 
