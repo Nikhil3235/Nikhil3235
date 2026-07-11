@@ -12,16 +12,6 @@
 
 ---
 
-## **🚀 About Me**
-
-#### I am a Computer Science Engineering student with hands-on experience in **AI/ML**, **full-stack development**, and **cloud technologies**.
-
-#### I enjoy building **AI-powered solutions**, working with **real-world datasets**, and exploring **machine learning** applications.
-
-#### My GitHub showcases **end-to-end AI projects**, **machine learning work**, and **innovative solutions** reflecting my continuous learning journey.
-
----
-
 ## **🛠️ When I code, I rely on**
 
 <p>
@@ -52,6 +42,17 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
+
+---
+
+
+## **🚀 About Me**
+
+#### I am a Computer Science Engineering student with hands-on experience in **AI/ML**, **full-stack development**, and **cloud technologies**.
+
+#### I enjoy building **AI-powered solutions**, working with **real-world datasets**, and exploring **machine learning** applications.
+
+#### My GitHub showcases **end-to-end AI projects**, **machine learning work**, and **innovative solutions** reflecting my continuous learning journey.
 
 ---
 
@@ -86,37 +87,45 @@
 
 # **📂 Featured Projects**
 
-## **1) 🔸 SnapClass - AI Powered Attendance System** (🥈 Hackathon Winner)
+##   **1)🔸 SnapClass - AI Powered Attendance System** (🥈 Hackathon Winner)
 * Face Recognition for instant attendance marking
 * Voice Biometrics for verification
 * Teacher & Student portals with real-time tracking
 * MongoDB + Streamlit deployment
-* 🌐 **Live Demo:** [https://snap-class-landing-page-ruby.vercel.app/](https://snap-class-landing-page-ruby.vercel.app/)
-* 💻 **GitHub:** [https://github.com/Nikhil3235/snap_class-landing-page](https://github.com/Nikhil3235/snap_class-landing-page)
+* 🌐 **Live Demo:** https://snap-class-landing-page-ruby.vercel.app/
+* 💻 **GitHub:** [https://github.com/Nikhil3235/ai-nst-project](https://github.com/Nikhil3235/snap_class-landing-page)
 
-## **2) 🔸 AI Neural Style Transfer - Deep Learning Web App**
+##  **2)🔸AI Neural Style Transfer - Deep Learning Web App**
+
 * AdaIN algorithm for real-time artistic style transfer
 * VGG19 Encoder + Custom Decoder Neural Network
 * Flask web app with Docker deployment
 * Live on Hugging Face Spaces
-* 🌐 **Live Demo:** [https://nikhil3235-ai-nst-project.hf.space](https://nikhil3235-ai-nst-project.hf.space)
-* 💻 **GitHub:** [https://github.com/Nikhil3235/ai-nst-project](https://github.com/Nikhil3235/ai-nst-project)
+* 🌐 **Live Demo:**  https://nikhil3235-ai-nst-project.hf.space
+* 💻 **GitHub:https:** //github.com/Nikhil3235/ai-nst-project
 
-## **3) 🔸 AI Real-Time Gym Coach - Computer Vision Web App**
+##  **3)🔸 AI Real-Time Gym Coach - Computer Vision Web App**
+
 * Real-time pose estimation tracking 33 skeletal joint angles via Google MediaPipe
-* Proactive AI voice feedback (English/Hindi/Marathi) using LLaMA-3 (Groq AI)
-* Auto-counts repetitions, calculates form accuracy, and saves history in SQLite3
-* Startup-style Landing Page with 3D card tilt & particle canvas animations
-* 🌐 **Live Demo:** [https://nikhil3235.github.io/ai-gym-coach/](https://nikhil3235.github.io/ai-gym-coach/)
-* 💻 **GitHub:** [https://github.com/Nikhil3235/ai-gym-coach](https://github.com/Nikhil3235/ai-gym-coach)
 
-## **4) 🔸 FireVision AI — Intelligent Fire & Smoke Detection System**
+* Proactive AI voice feedback (English/Hindi/Marathi) using LLaMA-3 (Groq AI)
+
+* Auto-counts repetitions, calculates form accuracy, and saves history in SQLite3
+
+* Startup-style Landing Page with 3D card tilt & particle canvas animations
+
+* 🌐 **Live Demo:**  https://nikhil3235.github.io/ai-gym-coach/
+
+* 💻 **GitHub:**  https://github.com/Nikhil3235/ai-gym-coach
+  
+
+##  **4)🔸 FireVision AI — Intelligent Fire & Smoke Detection System**
 * Real-time fire and smoke hazard detection powered by a custom-trained **YOLOv8m** deep learning model.
 * Spatio-Temporal coordinate variance tracking to suppress static photo frames from being counted as living people.
 * Geometrical Intersection-over-Area (IoA) filters to eliminate false positive detections on warm skin tones (faces), orange clothing, and mobile screens.
 * Production-grade deployment in a Docker container with real-time audio sirens, Twilio SMS alerts, and dynamic PDF safety reports.
-* 🌐 **Live Demo:** [https://nikhil3235-fire-smoke-detection.hf.space/live](https://nikhil3235-fire-smoke-detection.hf.space/live)
-* 💻 **GitHub:** [https://github.com/Nikhil3235/fire-smoke-detection-](https://github.com/Nikhil3235/fire-smoke-detection-)
+* 🌐 **Live Demo:** https://nikhil3235-fire-smoke-detection.hf.space/live
+* 💻 **GitHub:** https://github.com/Nikhil3235/fire-smoke-detection-
 
 ---
 
@@ -124,7 +133,7 @@
 
 <div align="center">
   <a href="https://github.com/Nikhil3235">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nikhil3235&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nikhil3235&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
   </a>
   &nbsp;
   <a href="https://github.com/Nikhil3235">
@@ -136,19 +145,12 @@
 
 <div align="center">
   <a href="https://github.com/Nikhil3235">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil3235&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nikhil3235&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
   </a>
 </div>
 
 ---
 
-## **🏆 GitHub Trophies**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nikhil3235&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
----
 
 ## **📈 Contribution Graph**
 
