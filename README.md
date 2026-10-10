@@ -127,6 +127,16 @@
 * 🌐 **Live Demo:** https://nikhil3235-fire-smoke-detection.hf.space/live
 * 💻 **GitHub:** https://github.com/Nikhil3235/fire-smoke-detection-
 
+
+5)🔸 AI Resume ATS Scorer — Explainable Career Intelligence Platform
+• Dense Semantic Vectorization & NLP matching using spaCy and normalized vector embeddings to eliminate exact-keyword recruitment traps.
+• Multi-parameter deterministic scoring rubric (0–100%) across Formatting, Keyword Recall, Content Impact, and ATS Technical Hygiene.
+• Cross-sectional skill validation algorithm using fuzzy Levenshtein distance (≥ 75%) to verify claimed proficiencies against described engineering projects.
+• Generative Explainable AI (XAI) feedback engine powered by Meta Llama-3 (Groq Cloud LPUs with <400ms latency) providing line-by-line bullet rewrites.
+• Production-grade decoupled deployment: Streamlit Cloud frontend, FastAPI REST backend on Render (<55MB RAM footprint), Supabase PostgreSQL with PKCE/JWT auth, and instant 400ms ReportLab PDF scorecard export.
+🌐 Live Demo: https://ai-resume-ats-system-nikhil.streamlit.app/
+💻 GitHub: https://github.com/Nikhil3235/ai_resume_ats_system
+
 ---
 
 ## **📊 My GitHub Contributions Summary**
