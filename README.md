@@ -108,6 +108,57 @@
 
 ---
 
+# 🧠 Machine Learning Experience
+
+### Classification
+- Logistic Regression
+- K-Nearest Neighbors
+- Random Forest
+- Support Vector Machine
+- Naive Bayes
+
+### Data Processing
+- Pandas
+- NumPy
+- Feature Scaling
+- TF-IDF Vectorization
+- Feature Engineering
+- Data Cleaning
+
+### Model Evaluation
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+- Confusion Matrix
+- Classification Reports
+
+---
+
+# 🚀 What I'm Building
+
+```text
+Artificial Intelligence
+        │
+        ├── Machine Learning
+        │       ├── Classification
+        │       ├── NLP
+        │       └── Model Evaluation
+        │
+        ├── Software Development
+        │       ├── Web Applications
+        │       ├── APIs
+        │       └── Backend Systems
+        │
+        ├── Automation
+        │
+        └── IoT
+                │
+                └── Intelligent Systems
+```
+
+---
+
 # **📂 Featured Projects**
 
 ## **1)🔸 SnapClass - AI Powered Attendance System** (🥈 Hackathon Winner)
